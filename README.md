@@ -25,8 +25,3 @@ These instructions will get you a copy of the project up and running on your loc
 * [Keerthi Patnaik](https://github.com/keerthi-patnaik)
 * [Preethi Subramanian](https://github.com/IamPreethi-S)
 
-### Acknowledgments
-
-Inspired From
-* [t-davidson](https://github.com/t-davidson/hate-speech-and-offensive-language)
-
